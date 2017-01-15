@@ -1,2 +1,2 @@
-# cv
-mcaead10's CV written in LaTeX
+# Mon curriculum vitæ
+CV de mcaead10 écrit en LaTeX 
